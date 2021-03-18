@@ -5,6 +5,9 @@
 ## 一些使用建议 | Use advice
 词库返回中的“你”，可替换成目标昵称
 
+## 相关项目 | Related projects
+- [MoeChat](https://github.com/Fzoss/MoeChat)
+
 ## 贡献 | Contribute
 只要你的词和回复够味，都可以向此库提交！
 
