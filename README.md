@@ -16,4 +16,4 @@
 ## 许可 | License
 本项目使用 MIT。
 
-![](https://i.pixiv.cat/img-original/img/2021/03/24/19/00/00/88674944_p0.png)
+![](https://cdn.jsdelivr.net/gh/Kyomotoi/CDN@master/noting/88674944_p0.png)
