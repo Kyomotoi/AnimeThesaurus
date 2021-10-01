@@ -19,7 +19,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
-            python-version: "pypy-3.7". # Faster
+          python-version: "pypy-3.7"
 
       - name: Check JSON
         run: cat data.json | python -m json.tool | tee data.json
