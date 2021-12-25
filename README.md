@@ -8,7 +8,8 @@
 
 ## 相关项目 | Related projects
 - [MoeChat](https://github.com/Fzoss/MoeChat)  聊天UI
-- [ATRI](https://github.com/Kyomotoi/ATRI)  QQ群聊bot
+- [ATRI](https://github.com/Kyomotoi/ATRI)  高性能萝卜子！
+- [绪山真寻Bot](https://github.com/HibiKier/zhenxun_bot)  非常可爱的绪山真寻bot
 
 ## 贡献 | Contribute
 只要你的词和回复够味，都可以向此库提交！
