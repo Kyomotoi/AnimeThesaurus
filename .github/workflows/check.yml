@@ -23,3 +23,9 @@ jobs:
 
       - name: Check JSON
         run: cat data.json | python -m json.tool | tee data.json
+
+      - name: Check JSON
+        run: cat 傲娇系二次元bot词库5千词V1.2.json | python -m json.tool | tee 傲娇系二次元bot词库5千词V1.2.json
+
+      - name: Check JSON
+        run: cat 可爱系二次元bot词库1.5万词V1.2.json | python -m json.tool | tee 可爱系二次元bot词库1.5万词V1.2.json
